@@ -62,7 +62,7 @@ Mouse	| Logitech MX MASTER 2S (Black) Wireless Laser Mouse
 
 > OpenCore version works fine with macOS Big Sur 11.0.1, last version 11.1
 
-- OpenCore-0.6.3-RELEASE
+- OpenCore-0.6.4-RELEASE
 
 ### **Working**
 ---
